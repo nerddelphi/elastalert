@@ -33,7 +33,7 @@ setup(
         'boto3',
         'configparser',
         'croniter',
-        'elasticsearch',
+        'elasticsearch==7.0.0',
         'envparse',
         'exotel',
         'jira',
